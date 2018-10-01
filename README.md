@@ -1,3 +1,29 @@
+
+Intro
+Password generator is a simple and lightweight raw java script app. It can generate secure, strong, random and unique password.  It comes with more password customizing feature, massive generator, save generated passwords in to the local storage, copy and downloads the generated passwords. It is responsive, less dependent and doesn’t require any database. 
+It supports easy integration with any project.
+Key features
+•	Lightweight and less dependency.
+•	Easy integration.
+•	History management.
+•	Well commented.
+•	Simple & Responsive design.
+•	All major browser support (IE9+, Chrome, Safari, Firefox, Opera).
+•	Copy & Download results.
+•	100 percent performance.
+•	Fast load time.
+•	Smart design.
+•	Character set selection.
+•	Variable length slider.
+•	Generation counter.
+Requirements
+•	jQuery
+•	Bootstrap v3.3.7
+
+
+
+#Deploy to heroku as php app:
+
 I’ll assume the Heroku app is all set up and the final step is the deployment process. Here’s the simple but yet “not going to argue with you” solution:
 
 Head to root directory of the repo that contains index.html which dictates the main HTML page.
